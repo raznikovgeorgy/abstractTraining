@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90ac97f1-fad1-4aff-8dd2-ff9c17e23ea8" name="Default Changelist" comment="" />
+    <list default="true" id="90ac97f1-fad1-4aff-8dd2-ff9c17e23ea8" name="Default Changelist" comment="init commit">
+      <change beforePath="$PROJECT_DIR$/src/com/syncretis/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syncretis/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +17,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1uR0Zd4560CU9MvHT1jSxJmLG4x" />
@@ -107,6 +114,14 @@
       <option name="presentableId" value="Default" />
       <updated>1624613151057</updated>
     </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1624945815188</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1624945815188</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,7 +135,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="newBranch" />
                       </list>
                     </value>
                   </entry>
@@ -131,6 +146,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

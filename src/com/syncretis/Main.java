@@ -18,6 +18,6 @@ public class Main {
     square.printName();
     triangle.printName();
 
-    Bugatti bugatti = new Bugatti();
+        System.out.println("First commit");
     }
 }
