@@ -18,6 +18,7 @@ public class Main {
     square.printName();
     triangle.printName();
 
+        System.out.println("test master commit");
         System.out.println("First commit");
         System.out.println("Second commit");
         System.out.println("Third commit");
