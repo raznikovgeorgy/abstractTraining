@@ -22,5 +22,8 @@ public class Main {
         System.out.println("Second commit");
         System.out.println("Third commit");
         System.out.println("Fourth commit");
+        System.out.println("Fifth commit");
+        System.out.println("Sixth commit");
+        System.out.println("Seventh commit");
     }
 }

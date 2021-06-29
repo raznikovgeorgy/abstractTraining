@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90ac97f1-fad1-4aff-8dd2-ff9c17e23ea8" name="Default Changelist" comment="init commit">
-      <change beforePath="$PROJECT_DIR$/src/com/syncretis/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syncretis/Main.java" afterDir="false" />
+    <list default="true" id="90ac97f1-fad1-4aff-8dd2-ff9c17e23ea8" name="Default Changelist" comment="Fifth commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,10 +16,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="newBranch" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="newBranch" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -102,6 +105,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -121,7 +125,49 @@
       <option name="project" value="LOCAL" />
       <updated>1624945815188</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Create new branch, first commit">
+      <created>1624946136433</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1624946136433</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Second commit">
+      <created>1624946156356</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1624946156356</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Second commit">
+      <created>1624946164573</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1624946164573</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Third commit">
+      <created>1624946174099</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1624946174099</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Fourth commit">
+      <created>1624946197424</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1624946197424</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Fifth commit">
+      <created>1624946426225</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1624946426225</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,19 +175,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="newBranch" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -149,7 +183,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+    <MESSAGE value="Create new branch, first commit" />
+    <MESSAGE value="Second commit" />
+    <MESSAGE value="Third commit" />
+    <MESSAGE value="Fourth commit" />
+    <MESSAGE value="Fifth commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fifth commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
